@@ -1,0 +1,19 @@
+{
+  "name": "metacraft",
+  "version": "1.0.0",
+  "description": "## Functionality",
+  "main": "updatetokenmetadata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorcavero14/Metacrafters-solana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorcavero14/Metacrafters-solana/issues"
+  },
+  "homepage": "https://github.com/victorcavero14/Metacrafters-solana#readme"
+}
