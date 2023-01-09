@@ -1,7 +1,7 @@
 {
   "name": "Ready to work",
   "symbol": "RTW",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/victorcavero14/Metacrafters-solana/master/token_uri.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
